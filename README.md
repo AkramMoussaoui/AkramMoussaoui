@@ -4,8 +4,8 @@ Fullstack TypeScript developer in Paris, focused on AWS serverless. 6 years of e
 
 At Groupe La Centrale I design and run event-driven services used by 8,000 automotive professionals. <!-- source: cv.draft.md, résumé "utilisés par 8 000 professionnels" -->
 
-- **AI-generated ad videos, tech lead, with OLX**: about 3,000 videos a day. Throttling and a daily FIFO batch keep generation under a 5,000/day partner cap. <!-- source: cv.draft.md, ad2video, bullets 1 et 2 -->
-- **Dynamic call tracking, tech lead**: rotating number pools and a TypeScript browser SDK published on npm, with a 400 ms timeout so the phone number never blocks rendering. <!-- source: cv.draft.md, call-tracking, bullet 2 -->
+- **AI-generated ad videos**: about 3,000 videos a day. Throttling and a daily FIFO batch keep generation under a 5,000/day partner cap. <!-- source: cv.draft.md, ad2video, bullets 1 et 2 -->
+- **Dynamic call tracking**: rotating number pools and a TypeScript browser SDK published on npm, with a 400 ms timeout so the phone number never blocks rendering. <!-- source: cv.draft.md, call-tracking, bullet 2 -->
 - **Pro accounts, sign-in and permissions**: Cognito, DynamoDB Streams and Step Functions, bulk password flows in batches of 1,000 to respect Cognito and SES quotas. <!-- source: cv.draft.md, identité et droits, bullets 1 à 3 -->
 - **Pro back office in Next.js**: App Router, server actions, streaming with Suspense, Jest. <!-- source: cv.draft.md, back-office, bullets 1 et 2 -->
 
